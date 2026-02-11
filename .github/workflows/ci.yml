@@ -21,4 +21,4 @@ jobs:
         docker run -d -p 80:80 --name demo-web demo-web
 
 
-runs-on: self-hosted ensures this runs on your VM.
+
